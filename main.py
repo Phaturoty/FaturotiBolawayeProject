@@ -1,2 +1,1 @@
-# -*- coding: utf-8 -*-
-print("Hello Faturoti Bolawaye Project!")
+print("Hello, CI/CD! Fixed encoding.")
